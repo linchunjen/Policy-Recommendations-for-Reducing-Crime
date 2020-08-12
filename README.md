@@ -4,4 +4,4 @@
 
 - Language: R
 
-- Author: Ammara Essa, Curtis Lin, and David Wheeler
+- Authors: Curtis Lin, Ammara Essa, and David Wheeler
